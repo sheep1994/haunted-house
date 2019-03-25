@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4c246df-6ed2-4e5c-932f-429d35e5c1e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/CarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/CarParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/Dic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/enums/CarParamType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/enums/DicType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haunted-house-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/haunted-house-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/BeanUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/BeanUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haunted-house-common/target/classes/com/talent/utils/BeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/haunted-house-common/target/classes/com/talent/utils/BeanUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/SpringTool.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,7 +28,7 @@
         <counts>
           <entry key="class" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="40" />
           <entry key="md" value="1" />
           <entry key="xml" value="2" />
         </counts>
@@ -51,21 +37,21 @@
         <counts>
           <entry key="CLASS" value="3" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="40" />
           <entry key="Markdown" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3471" />
+          <entry key="java" value="3645" />
           <entry key="md" value="4" />
           <entry key="xml" value="507" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3471" />
+          <entry key="JAVA" value="3645" />
           <entry key="Markdown" value="4" />
           <entry key="XML" value="507" />
         </counts>
@@ -84,14 +70,30 @@
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/BeanUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="193" column="30" selection-start-line="193" selection-start-column="30" selection-end-line="193" selection-end-column="30" />
+            <state relative-caret-position="583">
+              <caret line="194" column="30" lean-forward="true" selection-start-line="194" selection-start-column="30" selection-end-line="194" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3739#3769#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/SpringTool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,9 +104,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,6 +141,7 @@
         <option value="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/Dictionary.java" />
         <option value="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/annotation/User.java" />
         <option value="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/BeanUtil.java" />
+        <option value="$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/SpringTool.java" />
       </list>
     </option>
   </component>
@@ -301,27 +304,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="talent" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="haunted-house" type="b2602c69:ProjectViewProjectNode" />
-              <item name="haunted-house" type="462c0819:PsiDirectoryNode" />
-              <item name="haunted-house-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="talent" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="haunted-house" type="b2602c69:ProjectViewProjectNode" />
-              <item name="haunted-house" type="462c0819:PsiDirectoryNode" />
-              <item name="haunted-house-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="talent" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="haunted-house" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haunted-house" type="462c0819:PsiDirectoryNode" />
+              <item name="haunted-house-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="talent" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +327,7 @@
     <property name="LombokPluginEnabledInProject" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553506059789" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553506496223" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -390,12 +383,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553484289233</updated>
-      <workItem from="1553484294921" duration="13871000" />
+      <workItem from="1553484294921" duration="14312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13871000" />
+    <option name="totallyTimeSpent" value="14312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-480" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -751,11 +744,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/BeanUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="193" column="30" selection-start-line="193" selection-start-column="30" selection-end-line="193" selection-end-column="30" />
+        <state relative-caret-position="583">
+          <caret line="194" column="30" lean-forward="true" selection-start-line="194" selection-start-column="30" selection-end-line="194" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3739#3769#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haunted-house-common/src/main/java/com/talent/utils/SpringTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
           </folding>
         </state>
       </provider>
